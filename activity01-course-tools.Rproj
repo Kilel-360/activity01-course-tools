@@ -1,13 +1,5 @@
-Version: 1.0
+# Here are some simple calculations
+2 + 2
+(2 * 3)^2
+4 * 6
 
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
-
-EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
-Encoding: UTF-8
-
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
